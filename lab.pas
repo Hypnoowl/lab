@@ -1,4 +1,4 @@
-var
+var{учебная программа}
 a,b:integer;
 c,d,s:integer;
 begin
