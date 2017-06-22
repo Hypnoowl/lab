@@ -1,11 +1,11 @@
 var
-a:integer;
-b:integer;
-c:integer;
+a,b:integer;
+ñ,d:integer;
 begin
- readln(a);
- readln(b);
- c:=a+b;
- write(c);
- writeln('Hello, my dear friend!')
-end.    
+readln(a);
+readln(b);
+ñ:=a+b;
+d:=a*2;
+writeln(ñ);
+writeln(d)
+end.
