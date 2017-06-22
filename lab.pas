@@ -7,4 +7,5 @@ begin
  readln(b);
  c:=a+b;
  write(c);
+ writeln('Hello, my dear friend!')
 end.    
