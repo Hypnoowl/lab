@@ -1,11 +1,11 @@
 var
 a,b:integer;
-ñ,d:integer;
+c,d:integer;
 begin
 readln(a);
 readln(b);
-ñ:=a+b;
+c:=a+b;
 d:=a*2;
-writeln(ñ);
+writeln(c);
 writeln(d)
 end.
