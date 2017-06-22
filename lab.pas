@@ -7,7 +7,7 @@ readln(b);
 c:=a+b;
 d:=a*2;
 s:=a-b;
-writeln('Сумма =',c);
-writeln('Произведение =',d);
-writeln('Разность =',s);
+writeln('a+b =',c);
+writeln('a*2 =',d);
+writeln('s-d =',s);
 end.
